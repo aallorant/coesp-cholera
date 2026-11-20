@@ -11,6 +11,7 @@ The pages open with a passphrase, sent separately. / As páginas abrem com uma p
 | Map: situation and forecast, data used, models and performance / Mapa: situação e previsão, dados usados, modelos e desempenho | [open](https://aallorant.github.io/coesp-cholera/#lang=en) | [abrir](https://aallorant.github.io/coesp-cholera/#lang=pt) |
 | Performance and limitations / Desempenho e limitações | [open](https://aallorant.github.io/coesp-cholera/docs/performance.html) | [abrir](https://aallorant.github.io/coesp-cholera/docs/desempenho.html) |
 | Technical documentation / Documentação técnica | [open](https://aallorant.github.io/coesp-cholera/docs/documentation.html) | [abrir](https://aallorant.github.io/coesp-cholera/docs/documentacao.html) |
+| Code of the two models, their test and the rules / Código dos dois modelos, do seu teste e das regras | [open](https://aallorant.github.io/coesp-cholera/docs/code.html) | [abrir](https://aallorant.github.io/coesp-cholera/docs/codigo.html) |
 
 The district-level surveillance data belong to the Ministry of Health of Mozambique and are not for onward distribution. / Os dados de vigilância ao nível do distrito pertencem ao Ministério da Saúde de Moçambique e não devem ser redistribuídos.
 
